@@ -6,4 +6,7 @@ usaha saya sudah berjalan 4 tahun lamanya yaitu berdiri sejak corona melanda dun
 selain berjualan, saya juga sedang mengikuti beberapa pelatihan kepenulisan seperti yang diadakan oleh petrochina, dan Perpustakaan Tanjung Jabung Timur.
 baru satu karya tulis saya yang terbit menjadi buku yaitu buku antologi tentang kebudayaan dan pariwisata yang ada di Tanjung Jabung Timur.
 selain kegiatan diatas saya juga memiliki cita-cita menjadi seorang guru, dan sedang menunggu pembukaan pendaftaran PPG prajabatan dibuka tahun 2025 ini.
+---
+##### bisa lihat cv saya disini :
+![CV](https://github.com/jumelda/portofolio-jumelda/blob/main/CV%20Jumelda.pdf)
 terima kasih..
